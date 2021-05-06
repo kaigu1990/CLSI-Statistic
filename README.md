@@ -48,6 +48,14 @@ Confidence Interval: Wilson, or clopper-pearson
 
 Code: `DiagAcc.R`, Notes: [诊断试验评价指标](https://www.bioinfo-scrounger.com/archives/Diagnose-evaluation/), [Measures of risk](https://www.bioinfo-scrounger.com/archives/Measures-of-risk/), [Agreement statistics in diagnostic accuracy](https://www.bioinfo-scrounger.com/archives/agreement-statistics-in-diagnostic-accuracy/)
 
+#### EP28-A3
+
+##### Estimating and Verifying Reference Intervals
+
+Detect outliers by dixon method, and request the `referenceIntervals` R package to estimate reference interval
+
+Code: `Reference_Interval`, Note: [Analysis of Reference Value](https://www.bioinfo-scrounger.com/archives/Analysis-of-Reference-Value/)
+
 
 
 
